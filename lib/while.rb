@@ -5,5 +5,6 @@ def using_while
 	puts "Its Leviosa not Leviosar, your force is only #{levitation_force}"
  
 end
+end
 
 
